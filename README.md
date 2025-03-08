@@ -1,0 +1,2 @@
+# Qiita_Genesis_3-8
+QiitaにてGenesisの強化学習コードの説明をする
